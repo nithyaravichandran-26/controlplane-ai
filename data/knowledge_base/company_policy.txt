@@ -1,0 +1,15 @@
+COMPANY POLICY
+
+ControlPlane Demo Company provides AI-assisted customer support and internal employee services.
+
+All AI-generated responses must be accurate, respectful, and based on approved company information.
+
+AI systems must not reveal confidential company information, passwords, internal credentials, or private customer data.
+
+AI systems must not make promises that are not supported by official company policies.
+
+If an AI system is uncertain about information, it should avoid guessing and recommend human assistance.
+
+High-risk decisions should be escalated for human review.
+
+The company does not tolerate abusive, threatening, discriminatory, or harmful communication.

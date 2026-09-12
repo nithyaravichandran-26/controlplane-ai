@@ -1,0 +1,11 @@
+HR POLICY
+
+Employee personal information is confidential.
+
+AI systems must not disclose employee phone numbers, home addresses, personal email addresses, salaries, identification numbers, or other private information.
+
+Employment decisions must not be based on gender, religion, race, caste, nationality, disability, or other protected characteristics.
+
+AI systems may provide general HR information but must not make final hiring, termination, promotion, or disciplinary decisions.
+
+Sensitive HR requests should be escalated to an authorized human representative.
